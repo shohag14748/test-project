@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="33" viewBox="0 0 50 33">
+  <g id="logo" transform="translate(-65 -32)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="16.5" r="16.5" transform="translate(82 32)" fill="#68dcca"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="16.5" cy="16.5" r="16.5" transform="translate(65 32)" fill="#4460f1" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>
