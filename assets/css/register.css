@@ -1,0 +1,243 @@
+
+.register-banner .banner-wrap {
+    min-height: 100vh;
+    padding-top: 150px;
+}
+
+.register-banner .banner-wrap .left-text {
+    padding-left: 10%;
+    margin-top: 120px;
+}
+
+.register-banner .banner-wrap .left-text p {
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+.register-form {
+    max-width: 390px;
+    margin-left: auto;
+    padding: 0px 45px !important;
+    position: relative;
+    z-index: 99;
+    border-radius: 15px;
+    background-color: transparent;
+}
+
+
+.register-form .input-group {
+    margin-bottom: 25px;
+    position: relative;
+}
+
+.register-form .input-group input {
+    display: block;
+    font-size: 14px;
+    width: 100%;
+    border: 0;
+    background-color: #FAFCFF;
+    color: rgba(0, 0, 0, .66);
+    padding: 20px 25px;
+    height: 56px;
+    border-radius: 10px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .05)
+}
+
+.register-form .input-group p {
+    text-align: right;
+    display: block;
+    width: 100%;
+    color: #A0AAB6;
+    margin-top: 10px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.register-form .input-group label.eye {
+    position: absolute;
+    right: 20px;
+    left: auto;
+    z-index: 999;
+    top: 15px;
+}
+
+.register-form .input-group.checkbox {
+    display: flex;
+}
+
+.register-form .input-group input[type="checkbox"] {
+    display: block;
+    width: 17px !important;
+    height: 17px;
+}
+
+.register-form .input-group.checkbox label {
+    display: block;
+    margin-left: 30px;
+    font-size: 14px;
+    margin-top: -20px;
+    margin-bottom: 0;
+}
+
+.register-form .input-group.checkbox label a {
+    color: #4460F1;
+    text-decoration: underline;
+}
+
+.register-form .form-button .btn {
+    width: 100% !important;
+    background: #4460F1;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.register-form .form-button .btn:hover {
+    background-color: #68DCCA;
+}
+
+.register-form .or {
+    text-align: center;
+    color: #A0AAB6;
+    padding: 20px;
+    margin: 0;
+}
+
+.register-form .social-button .btn {
+    display: block;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .6);
+    border: 1px solid #A0AAB6;
+    border-radius: 10px;
+    height: 56px;
+    padding: 14px;
+    position: relative;
+}
+
+.register-form .social-button .btn img {
+    position: absolute;
+    left: 20px;
+    width: 30px;
+    top: 12px;
+}
+
+.register-form .social-button .btn:first-child {
+    margin-bottom: 25px;
+}
+
+.register-form .social-button .btn:hover {
+    background-color: #68DCCA;
+    color: #fff
+}
+
+.register-banner .man {
+    top: 140px;
+    left: 460px;
+}
+
+.register-banner .plant {
+    position: absolute;
+    left: 12%;
+    bottom: 100px;
+}
+
+
+footer {
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    padding: 15px;
+    background: #fff;
+}
+
+footer .copyright p {
+    margin: 0;
+    color: rgba(0, 0, 0, .45);
+    font-weight: 500;
+    font-size: 12px;
+}
+
+footer .container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1360px
+}
+
+footer .container .links {
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    list-style: none;
+    margin: 0;
+}
+
+footer .container .links a {
+    color: rgba(0, 0, 0, .45);
+    font-weight: 500;
+}
+footer .container .links a.cookies {
+    padding: 4px 25px;
+    background: rgba(68,96,241,.08);
+    color: #4460F1;
+    border-radius: 20px
+}
+
+
+
+@media (max-width:991px) {
+    .register-banner .banner-wrap {
+        padding-top: 130px;
+    }
+
+    .register-banner .banner-wrap .left-text {
+        padding-left: 15px;
+    }
+
+    .register-form {
+        padding: 0px !important;
+    }
+
+    .register-banner .man {
+        top: 140px;
+        left: 260px;
+        width: 200px;
+    }
+}
+
+@media (max-width:768px) {
+    .register-banner .banner-wrap .left-text {
+        margin-top: 0px;
+    }
+
+    .register-form {
+        margin: auto;
+        margin-top: 40px;
+        z-index: 9;
+        position: relative;
+    }
+
+    .register-banner .man {
+        top: 0px;
+        left: auto;
+        right: 0;
+        width: 150px;
+    }
+
+    .register-banner .plant {
+        position: absolute;
+        left: 4%;
+        bottom: 30px;
+        z-index: 1;
+        width:100px;
+    }
+    footer .container {
+        flex-direction: column;
+    }
+    footer .container .copyright {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    footer .container .links {
+        width: 100%;
+        flex-flow: wrap;
+    }
+}
