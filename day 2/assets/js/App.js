@@ -51,34 +51,4 @@ $(document).ready(function () {
         }
     };
     $('.operator .select2-selection__placeholder').prepend("<img src='assets/images/headphone.svg' alt=''>");
-    
-    
-    
-    $(".topup-form .country-select").select2({
-        templateResult: formatCountry,
-        templateSelection: formatCountry,
-        placeholder: "Select Country",
-    }).on('select2:open', function (e) {
-        $('.select2-search__field').attr('placeholder', 'Write country or number');
-    });
-
-    function formatCountry(opt) {
-        if (!opt.id) {
-            return opt.text;
-        }
-
-        var optimage = $(opt.element).attr('data-image');
-        var datacc = $(opt.element).attr('data-cc');
-        console.log(optimage)
-        if (!optimage) {
-            return opt.text;
-        } else {
-            var $opt = $(
-                '<span><img src="' + optimage + '" width="60px" /> ' + opt.text + '<span class="data-cc">' + datacc + '</span></span>'
-            );
-            return $opt;
-        }
-    };
-    $('.topup-form .country .select2-selection__placeholder').prepend("<img src='assets/images/globe.svg' alt=''>");
-
 });
