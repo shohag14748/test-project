@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.134" height="18" viewBox="0 0 11.134 18">
+  <g id="_045-smartphone" data-name="045-smartphone" transform="translate(-97.659)">
+    <g id="Group_138" data-name="Group 138" transform="translate(97.659)">
+      <g id="Group_137" data-name="Group 137" transform="translate(0)">
+        <path id="Path_210" data-name="Path 210" d="M108.792,16.239V1.761A1.763,1.763,0,0,0,107.031,0H99.42a1.763,1.763,0,0,0-1.761,1.761V16.239A1.763,1.763,0,0,0,99.42,18h7.631a1.759,1.759,0,0,0,1.256-.531A1.7,1.7,0,0,0,108.792,16.239Zm-1.329.412a.569.569,0,0,1-.413.175H99.42a.588.588,0,0,1-.587-.587V1.761a.588.588,0,0,1,.587-.587h7.611a.588.588,0,0,1,.587.587v14.5A.54.54,0,0,1,107.463,16.652Z" transform="translate(-97.659)" fill="#505b67"/>
+      </g>
+    </g>
+    <g id="Group_140" data-name="Group 140" transform="translate(98.246 2.289)">
+      <g id="Group_139" data-name="Group 139" transform="translate(0)">
+        <rect id="Rectangle_114" data-name="Rectangle 114" width="9.978" height="1.174" fill="#505b67"/>
+      </g>
+    </g>
+    <g id="Group_142" data-name="Group 142" transform="translate(98.246 13.618)">
+      <g id="Group_141" data-name="Group 141" transform="translate(0)">
+        <rect id="Rectangle_115" data-name="Rectangle 115" width="9.978" height="1.174" fill="#505b67"/>
+      </g>
+    </g>
+    <g id="Group_144" data-name="Group 144" transform="translate(102.159 15.202)">
+      <g id="Group_143" data-name="Group 143" transform="translate(0)">
+        <path id="Path_211" data-name="Path 211" d="M227.224,432.417h-.978a.587.587,0,1,0,0,1.174h.978a.587.587,0,1,0,0-1.174Z" transform="translate(-225.659 -432.417)" fill="#505b67"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="65" viewBox="0 0 64 65">
+  <g id="logo" transform="translate(-108 -53)">
+    <text id="Logo-2" data-name="Logo" transform="translate(140 114)" font-size="16" font-family="BasierCircle-Medium, Basier Circle" font-weight="500" letter-spacing="0.4em"><tspan x="-31.512" y="0">LOGO</tspan></text>
+    <g id="logo-3" data-name="logo" transform="translate(50 21)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="16.5" cy="16.5" r="16.5" transform="translate(82 32)" fill="#68dcca"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="16.5" cy="16.5" r="16.5" transform="translate(65 32)" fill="#4460f1" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+  </g>
+</svg>
