@@ -1857,9 +1857,6 @@ footer {
     font-size: 12px;
     color: #000;
 }
-.purchases-table .table-wrap table tr td p{
-    margin-bottom: 5px;
-}
 .purchases-table .table-wrap table tr td p:last-child{
     margin-bottom: 0;
 }
