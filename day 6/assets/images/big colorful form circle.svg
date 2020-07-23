@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="373" height="373" viewBox="0 0 373 373">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.945" gradientTransform="matrix(0.849, 0.529, -0.401, 0.643, 0.276, -0.086)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#971ef3"/>
+      <stop offset="0.236" stop-color="#64e4db"/>
+      <stop offset="0.416" stop-color="#1fe4c9"/>
+      <stop offset="0.74" stop-color="#7820e3"/>
+      <stop offset="1" stop-color="#3c22e2"/>
+    </radialGradient>
+  </defs>
+  <rect id="big_colorful_form" data-name="big colorful form" width="373" height="373" rx="186.5" fill="url(#radial-gradient)"/>
+</svg>

@@ -1,12 +1,3 @@
-
-//document.querySelector('.purchases-table .table-top .close').addEventListener('click', function (e) {
-//    document.querySelector('.purchases-table .table-top .buttons .button-group').classList.add('active');
-//});
-document.querySelector('button.export-buttons-toggler').addEventListener('click', function (e) {
-    console.log('ok');
-    document.querySelector('.purchases-table .table-top .buttons .button-group').classList.remove('active');
-});
-
 $(document).ready(function () {
 
     $(".country-select").select2({

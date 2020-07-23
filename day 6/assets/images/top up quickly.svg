@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="36.61" viewBox="0 0 34 36.61">
+  <defs>
+    <filter id="Union_3" x="3.061" y="3.557" width="27.889" height="33.054" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#4460f1" flood-opacity="0.651"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="top_up_quickly" data-name="top up quickly" transform="translate(-338.202 -367.202)">
+    <rect id="Rectangle_135" data-name="Rectangle 135" width="34" height="34" rx="17" transform="translate(338.202 367.202)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 338.2, 367.2)" filter="url(#Union_3)">
+      <path id="Union_3-2" data-name="Union 3" d="M2.546,14.988a.608.608,0,0,1-.336-.68L3.41,9,.434,8.028A.628.628,0,0,1,.023,7.61.6.6,0,0,1,.15,7.049L6.118.219A.656.656,0,0,1,6.874.056a.611.611,0,0,1,.365.658L6.312,6.225l3.069.618a.631.631,0,0,1,.476.408.6.6,0,0,1-.128.6L3.314,14.846a.659.659,0,0,1-.768.142Z" transform="translate(12.06 9.56)" fill="#4460f1"/>
+    </g>
+  </g>
+</svg>
