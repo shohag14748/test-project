@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.89" height="34.132" viewBox="0 0 32.89 34.132">
+  <defs>
+    <filter id="Path_188" x="0" y="6.566" width="32.89" height="21" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_189" x="5.324" y="0" width="27.566" height="34.132" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.588"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon_feather-arrow-right" data-name="Icon feather-arrow-right" transform="translate(3 3.621)">
+    <g transform="matrix(1, 0, 0, 1, -3, -3.62)" filter="url(#Path_188)">
+      <path id="Path_188-2" data-name="Path 188" d="M7.5,18H19.39" transform="translate(3 -0.93)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -3, -3.62)" filter="url(#Path_189)">
+      <path id="Path_189-2" data-name="Path 189" d="M18,7.5l5.945,5.945L18,19.39" transform="translate(-1.56 3.62)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
