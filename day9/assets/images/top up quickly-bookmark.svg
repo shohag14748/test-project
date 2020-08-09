@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="36.623" viewBox="0 0 34 36.623">
+  <defs>
+    <filter id="Icon_feather-bookmark" x="1.649" y="3.377" width="30.302" height="33.245" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#0077b6" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="top_up_quickly" data-name="top up quickly" transform="translate(-338.202 -367.202)">
+    <rect id="Rectangle_135" data-name="Rectangle 135" width="34" height="34" rx="17" transform="translate(338.202 367.202)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 338.2, 367.2)" filter="url(#Icon_feather-bookmark)">
+      <path id="Icon_feather-bookmark-2" data-name="Icon feather-bookmark" d="M17.8,17.745l-5.151-3.679L7.5,17.745V5.972A1.472,1.472,0,0,1,8.972,4.5H16.33A1.472,1.472,0,0,1,17.8,5.972Z" transform="translate(4.15 5.88)" fill="#0077b6" stroke="#0077b6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

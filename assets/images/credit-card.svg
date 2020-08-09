@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.699" height="34.693" viewBox="0 0 42.699 34.693">
+  <defs>
+    <filter id="Path_480" x="0" y="0" width="42.699" height="34.693" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="credit-card" transform="translate(9 3.53)">
+    <g id="Group_410" data-name="Group 410" transform="translate(4.12 0)">
+      <path id="Path_480-2" data-name="Path 480" d="M19.94,16.133H1.474A1.682,1.682,0,0,1,0,14.3V1.832A1.682,1.682,0,0,1,1.474,0H19.94a1.682,1.682,0,0,1,1.474,1.832V14.3A1.682,1.682,0,0,1,19.94,16.133Z" transform="translate(6.044 0) rotate(22)" fill="#b3c0ff"/>
+    </g>
+    <g id="Group_420" data-name="Group 420" transform="translate(0 4.47)">
+      <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Path_480)">
+        <path id="Path_480-3" data-name="Path 480" d="M54.161,141.881h-21.3a1.805,1.805,0,0,1-1.7-1.9v-12.9a1.805,1.805,0,0,1,1.7-1.9h21.3a1.805,1.805,0,0,1,1.7,1.9v12.9A1.806,1.806,0,0,1,54.161,141.881Z" transform="translate(-22.16 -117.19)" fill="#4460f1"/>
+      </g>
+      <rect id="Rectangle_277" data-name="Rectangle 277" width="24.698" height="3.431" transform="translate(0 2.977)" fill="#fff"/>
+      <rect id="Rectangle_279" data-name="Rectangle 279" width="11.739" height="2" rx="1" transform="translate(10.419 10.455)" fill="#fff"/>
+      <path id="Path_488" data-name="Path 488" d="M47.426,128.567H44.419a.777.777,0,0,1-.777-.777v-3.007a.777.777,0,0,1,.777-.777h3.007a.777.777,0,0,1,.777.777v3.007A.777.777,0,0,1,47.426,128.567Z" transform="translate(-41.275 -114.779)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
